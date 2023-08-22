@@ -1,6 +1,6 @@
-# UX Portfolio
+# Alex's UX Portfolio
 
-About me...
+My name is Alex Ayala, welcome to my UX portfolio. 
 
 ## UX Team Project
 
