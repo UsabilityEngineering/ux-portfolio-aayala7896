@@ -1,4 +1,9 @@
 # Connecting to Global Protect(VPN)
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
 Chico State has integrated the Palo Alto Global Protect OnDemand VPN in the last year or so. The benefit of Global Protect is that the network at Chico State is more secure due to the encryption of data between student devices and the network. However, the caveat is that you must have Global Protect on your device to access the network. 
 
