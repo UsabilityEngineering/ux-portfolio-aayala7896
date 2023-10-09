@@ -6,19 +6,19 @@ I am currently taking a networks course and I need to access the ECC Linux serve
 
 On the Mac, Global Protect creates a widget on the menu bar that simply says connect. If everything goes well then it says ‘Connected’. If not then Global Protect gives up and tells the user to run to the IT guy. 
 
-![widget](../assets/widget.png)
+<img src ="../assets/widget.png" alt="widget-picture" width="400"/>
 
 The widget is neat to have and is not overwhelming with extra information that isn’t necessary. It is effective in giving immediate user feedback. I can click the widget and check without having to open up the application.
 
 However, problems arose when I could not connect to the VPN. The widget does not give me much troubleshooting information so I have to open the Global Protect settings.
 
-<img src ="../assets/settings.png" alt="settings-picture" width="200"/>
+<img src ="../assets/settings.png" alt="settings-picture" width="400"/>
 
 The first step of my process of solving the issue is to make sure the portal address is not misspelled. Everything checked out fine for the portal address so I went to the Troubleshooting page. 
 
 As helpful as I thought the troubleshooting page would be, this page directs you to download Debug logs on the local device. Only then to be assisted by an IT administrator to help fix Global Protect issues. As a user, I would not like to download logs as I have no use for debug logs. I believe the Global Protect page would be much better without this page and move it to Host Information. I think users would be quick to assume if they are having trouble with the device then what can they do to fix it?
 
-
+<img src ="../assets/troubleshooting.png" alt="troubleshooting-picture" width="400"/>
 
 A weakness I found with Global Protect is that there is no user feedback when failing. I’m not sure if it's failing because I am connected to a bad network or if my credentials are incorrect. Adding user feedback can help the user address the problems without creating an ITTS ticket. 
 
