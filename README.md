@@ -5,8 +5,8 @@ When I'm not programming I enjoy being out in the mountains ⛰️.
 
 ## UX Team Project
 
-Coming soon.
+[Music Mirror](https://chicostate.github.io/UX-MusicMirror/)
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Connecting to Global Protect(VPN)](j01/)
