@@ -15,9 +15,9 @@ The widget is neat to have and is not overwhelming with extra information that i
 
 However, problems arose when I could not connect to the VPN. The widget does not give me much troubleshooting information so I have to open the Global Protect settings.
 
-
+<p align="center">
 <img src ="../assets/settings.png" alt="settings-picture" width="400"/>
-
+</p>
 
 The first step of my process of solving the issue is to make sure the portal address is not misspelled. Everything checked out fine for the portal address so I went to the Troubleshooting page. 
 
