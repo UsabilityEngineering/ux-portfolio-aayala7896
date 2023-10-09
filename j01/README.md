@@ -6,6 +6,7 @@ I am currently taking a networks course and I need to access the ECC Linux serve
 
 On the Mac, Global Protect creates a widget on the menu bar that simply says connect. If everything goes well then it says ‘Connected’. If not then Global Protect gives up and tells the user to run to the IT guy. 
 
+![widget](../assets/widget.png)
 
 The widget is neat to have and is not overwhelming with extra information that isn’t necessary. It is effective in giving immediate user feedback. I can click the widget and check without having to open up the application.
 
