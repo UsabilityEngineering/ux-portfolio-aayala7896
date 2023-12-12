@@ -27,7 +27,7 @@ As helpful as I thought the troubleshooting page would be, this page directs you
   <img src ="../assets/troubleshooting.png" alt="troubleshooting-picture" width="400"/>
 </p>
 
-A weakness I found with Global Protect is that there is no user feedback when failing. I’m not sure if it's failing because I am connected to a bad network or if my credentials are incorrect. Adding user feedback can help the user address the problems without creating an ITTS ticket. 
+A weakness I found with Global Protect is that there is no user **feedback** when failing. I’m not sure if it's failing because I am connected to a bad network or if my credentials are incorrect. Adding user feedback can help the user address the problems without creating an ITTS ticket. 
 
 There are no other actions the user can do to fix any problems with Global Protect. This application is so minimal to the point where I wish there were more options to solve my VPN issue. 
 
@@ -37,7 +37,7 @@ I contacted ITSS and scheduled three different sessions to debug the issue. Afte
 
 Global Protect is not a User-Friendly experience. Students need to rely on ITSS documentation to download & configure this VPN.  I believe complications can arise when Global Protect is available through the Palo Alto Networks webpage, the Apple store, and the Chico State website. I was advised to only use the one from the ITSS site because the app store Global Protect and the Chico State download could use share dependency which can create conflict. This application can be more **error-tolerant** if there is a core Global protection application.
 
-To this day I do not have a working VPN because I did not expect I would have to reinstall my OS for a possible resolution. I believe a solution for Global Protect is that it needs to add more user feedback when failing to connect.
+To this day I do not have a working VPN because I did not expect I would have to reinstall my OS for a possible resolution. I believe a solution for Global Protect is that it needs to add more user **feedback** when failing to connect.
 
 
 
