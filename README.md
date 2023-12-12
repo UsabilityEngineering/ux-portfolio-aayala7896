@@ -10,3 +10,5 @@ When I'm not programming I enjoy being out in the mountains ⛰️.
 ## UX Journal
 
 [Connecting to Global Protect(VPN)](j01/)
+
+[REVISION: Connecting to Global Protect(VPN)](j01-revision/)
